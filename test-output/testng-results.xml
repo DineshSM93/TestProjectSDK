@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-10T14:47:58 IST" name="Default suite" finished-at="2022-05-10T14:48:11 IST" duration-ms="13240">
+    <groups>
+    </groups>
+    <test started-at="2022-05-10T14:47:58 IST" name="Default test" finished-at="2022-05-10T14:48:11 IST" duration-ms="13240">
+      <class name="testprojectSDK.testngdemo">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:testprojectSDK.testngdemo@f5acb9d]" started-at="2022-05-10T14:47:58 IST" name="beforetest" finished-at="2022-05-10T14:48:09 IST" duration-ms="11073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="test1()[pri:0, instance:testprojectSDK.testngdemo@f5acb9d]" started-at="2022-05-10T14:48:09 IST" name="test1" finished-at="2022-05-10T14:48:11 IST" duration-ms="1936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:testprojectSDK.testngdemo@f5acb9d]" started-at="2022-05-10T14:48:11 IST" name="test2" finished-at="2022-05-10T14:48:11 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:testprojectSDK.testngdemo@f5acb9d]" started-at="2022-05-10T14:48:11 IST" name="aftertest" finished-at="2022-05-10T14:48:11 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- testprojectSDK.testngdemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
